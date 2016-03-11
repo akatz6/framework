@@ -1,0 +1,25 @@
+*{
+	/*border: 1px dotted red;*/
+	font-family: 'Indie Flower', cursive;
+		-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+h1 {
+    text-align: right;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: right;
+}
+
+hr{
+	color: black;
+	width: 100%;
+}
